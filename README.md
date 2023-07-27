@@ -7,4 +7,4 @@
 - 💻 Most of my study cases are available on Github
 - 🎛️🎚️ unexpected fact: Sometimes I write techno music and publish it on Spotify and Beatport
 -->
-![Header]https://img.shields.io/badge/Jmeter090909%3Fstyle%3Dfor-the-badge%26logo%3Djira%26logoColor%3D136be1
+![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
