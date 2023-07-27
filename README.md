@@ -21,7 +21,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="80" height="80"/>
 <img src="https://luna1.co/eb0187.png" title="qase" alt="qase" width="80" height="80"/>
 <img src="https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=swagger&logoColor=7ede2b" title="Swagger" alt="Swagger" width="120" height="80"/ >
-<img src="https://github.com/krazyglue88/krazyglue88/assets/139983939/f6f06848-e949-442d-b237-6d8f1a1073d7" title="Ableton" alt="Ableton" width="160" height="160"/ >
+<img src="https://github.com/krazyglue88/krazyglue88/assets/139983939/f6f06848-e949-442d-b237-6d8f1a1073d7" title="Ableton" alt="Ableton" width="80" height="80"/ >
 
 <h2>Test Artifacts </h2>
 <p> 
