@@ -22,7 +22,7 @@
 </ul>
 <h2>Some Tools I Use</h2>
 <p align="center">
-<img src="(https://github.com/krazyglue88/krazyglue88/assets/139983939/2270cb6d-57a7-4c9c-87ca-837a79746c1e)" title="Jmeter" alt="Jmeter" width="40" height="40"/>
+<img src="https://github.com/krazyglue88/krazyglue88/assets/139983939/2270cb6d-57a7-4c9c-87ca-837a79746c1e" title="Jmeter" alt="Jmeter" width="40" height="40"/>
 
 ### Testing Documentation
 
