@@ -19,7 +19,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="80" height="80"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="80" height="80"/>
 <img src="https://luna1.co/eb0187.png" title="qase" alt="qase" width="80" height="80"/>
-</p>
+<img src="https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=swagger&logoColor=7ede2b" title="Swagger" alt="Swagger" width="80" height="80"/ >
 <h2>Test Artifacts </h2>
 <p> 
  <ul>
