@@ -22,9 +22,9 @@
 </ul>
 <h2>Some Tools I Use</h2>
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="100" height="70"/>
-<img src="https://github.com/krazyglue88/krazyglue88/assets/139983939/2270cb6d-57a7-4c9c-87ca-837a79746c1e" title="Jmeter" alt="Jmeter" width="100" height="70"/>
-<img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="100" height="70"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="100" height="100"/>
+<img src="https://github.com/krazyglue88/krazyglue88/assets/139983939/2270cb6d-57a7-4c9c-87ca-837a79746c1e" title="Jmeter" alt="Jmeter" width="100" height="100"/>
+<img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="100" height="100"/>
 
 ### Testing Documentation
 
