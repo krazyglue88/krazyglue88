@@ -9,7 +9,7 @@
 - 🚵 Велосипедная езда и горы - одни из любимых моих увлечений
 
 </ul>
-<h2>Некоторые технологии и инструменты, которые я использовал</h2>
+<h2>Некоторые инструменты, которые я использовал</h2>
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="80" height="80"/>
 <img src="https://github.com/krazyglue88/krazyglue88/assets/139983939/2270cb6d-57a7-4c9c-87ca-837a79746c1e" title="Jmeter" alt="Jmeter" width="80" height="80"/>
