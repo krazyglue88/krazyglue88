@@ -7,9 +7,6 @@
 - 💻 Most of my study cases are available on Github
 - 🎛️🎚️ unexpected fact: Sometimes I write techno music and publish it on Spotify and Beatport
 
-
-
-
 </ul>
 <h2>Some Tools I Use</h2>
 <p align="center">
