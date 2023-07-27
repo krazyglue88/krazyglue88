@@ -19,6 +19,7 @@
 ![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
 ![Header](https://img.shields.io/badge/AndroidStudio-090909?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)
 ![Header](https://img.shields.io/badge/Fiddler-090909?style=for-the-badge&logo=fiddler&logoColor=8cc4d7)
+<p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jmeter/jmeter-original.svg" title="jmeter" alt="jmeter" width="40" height="40"/>
 
 ### Testing Documentation
