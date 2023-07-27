@@ -1,14 +1,15 @@
-### Hi there 👋
+### Всем привет 👋 
 
-# Some facts about me
-- 🌱 I’m ready to be a tester
-- 😎 completed a course of manual web tester at Codify Lab
-- 📐✂️ Came to IT from silk scarf industry
-- 💻 Most of my study cases are available on Github
-- 🎛️🎚️ unexpected fact: Sometimes I write techno music and publish it on Spotify and Beatport
+# Немного обо мне
+🌱 Готов к работе мануальным Junior QA
+📐✂️ Пришел в IT из сферы лёгкой промышленности
+😎 Закончил курс мануального вэб тестировщика в Codify Lab c лучшим рейтингом
+💻 Большинство моих тестовых артифактов выгруженны в Github
+🎛️🎚️ Неожиданный факт: иногда я записываю техно музыку и публикую её на стриминговых платформах
+🚵 Велосипедная езда и горы - одни из любимых моих увлечений
 
 </ul>
-<h2>Some Tools I Use</h2>
+<h2>Некоторые технологии и инструменты, которые я использовал</h2>
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="80" height="80"/>
 <img src="https://github.com/krazyglue88/krazyglue88/assets/139983939/2270cb6d-57a7-4c9c-87ca-837a79746c1e" title="Jmeter" alt="Jmeter" width="80" height="80"/>
