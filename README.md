@@ -19,7 +19,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="80" height="80"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="80" height="80"/>
 <img src="https://luna1.co/eb0187.png" title="qase" alt="qase" width="80" height="80"/>
-# Testing Documentation
+</p>
+<h2>Test Artifacts </h2>
+<p> 
+ <ul>
 
 - [Checklists](https://github.com/artichokeee/checklist)
 - [Test-Suites and Test-Cases](https://github.com/artichokeee/test-cases)
