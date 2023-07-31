@@ -25,8 +25,12 @@
 
 
 
-### Follow Me
-
+### Мои контакты
+<p align="center">
+<a href= "https://www.linkedin.com/in/ivan-fedorenko-038029278/"><img src="https://img.icons8.com/?size=512&id=447&format=png" width="40" height="40" alt="linkedin"/></a>
+<a href= "https://t.me/krazyglue"><img src="https://img.icons8.com/?size=512&id=TCnKnYZFoOzM&format=png" width="40" height="40" alt="telegram"/></a>
+<a href= "mailto:o.frazyglue@gmail.com"><img src="https://img.icons8.com/?size=512&id=rUgzXdXFnhmg&format=png" width="40" height="40" alt="gmail"/></a>
+</p>
 [![Header](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=instagram&logoColor=9939a3)](https://www.instagram.com/krazyglue_ivan/)
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/krazyglue)
 [![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/ivan-fedorenko-038029278/)
