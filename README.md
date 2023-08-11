@@ -22,7 +22,11 @@
 <img src="https://luna1.co/eb0187.png" title="qase" alt="qase" width="80" height="80"/>
 <img src="https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=swagger&logoColor=7ede2b" title="Swagger" alt="Swagger" width="100" height="60"/ >
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" title="bash" alt="bash" width="80" height="80"/>
-
+</p>
+<h2>Выполненные задания, в рамках курса Вадима Ксендзова </h2>
+<p> 
+ <ul>
+<li>  <a href="https://https://github.com/krazyglue88/Terminal_Linux">Terminal</a>  </li>
 
 
 
