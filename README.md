@@ -25,7 +25,7 @@
 </p>
 <h2>Выполненные задания, в рамках курса Вадима Ксендзова </h2>
 <p> 
- <ul>
+<ul>
 <li>  <a href="https://github.com/krazyglue88/Terminal_Linux">Terminal</a>  </li>
 
 
