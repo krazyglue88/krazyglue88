@@ -23,7 +23,7 @@
 <img src="https://seeklogo.com/images/S/swaggerhub-logo-52BE4455D6-seeklogo.com.png" width="80" height="80"/ >
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" title="bash" alt="bash" width="80" height="80"/>
 </p>
-<h2>Выполненные задания, в рамках курса Вадима Ксендзова </h2>
+<h2>Выполненные задания в рамках курса Вадима Ксендзова </h2>
 <p> 
 <ul>
 <li>  <a href="https://github.com/krazyglue88/Terminal_Linux">Terminal</a>  </li>
