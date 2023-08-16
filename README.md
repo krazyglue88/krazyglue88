@@ -27,7 +27,7 @@
 <p> 
 <ul>
 <li>  <a href="https://github.com/krazyglue88/Terminal_Linux">Terminal</a>  </li>
-
+<li>  <a href="https://github.com/krazyglue88/Git">Git</a> </li>
 
 
 ### Мои контакты
