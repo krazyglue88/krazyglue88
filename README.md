@@ -27,7 +27,7 @@
 <li>  <a href="https://github.com/krazyglue88/Terminal_Linux">Terminal</a>  </li>
 <li>  <a href="https://github.com/krazyglue88/Git">Git</a> </li>
   
-### Мои контакты
+# Мои контакты
 <p align="center">
 <a href= "https://www.linkedin.com/in/ivan-fedorenko-038029278/"><img src="https://img.icons8.com/?size=512&id=447&format=png" width="40" height="40" alt="linkedin"/></a>
 <a href= "https://t.me/krazyglue"><img src="https://img.icons8.com/?size=512&id=TCnKnYZFoOzM&format=png" width="40" height="40" alt="telegram"/></a>
