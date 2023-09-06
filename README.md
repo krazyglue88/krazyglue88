@@ -27,6 +27,7 @@
 <h1>Выполненные задания в рамках курса <a href= "https://ksendzov.com">Вадима Ксендзова </h1>
 <li>  <a href="https://github.com/krazyglue88/Terminal_Linux">Linux terminal</a>  </li>
 <li>  <a href="https://github.com/krazyglue88/Git">Git</a> </li>
+<li>  <a Href="https://github.com/krazyglue88/Git/tree/Postman">Postman</a> </li>
   
 # Мои контакты
 <p align="center">
