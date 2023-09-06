@@ -25,9 +25,9 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" title="bash" alt="bash" width="80" height="80">
 </p>
 <h1>Выполненные задания в рамках курса <a href= "https://ksendzov.com">Вадима Ксендзова </h1>
-<li>  <a href="https://github.com/krazyglue88/Terminal_Linux">Linux terminal</a>  </li>
-<li>  <a href="https://github.com/krazyglue88/Git">Git</a> </li>
-<li>  <a Href="https://github.com/krazyglue88/Git/tree/Postman">Postman</a> </li>
+<h2>  <a href="https://github.com/krazyglue88/Terminal_Linux">Linux terminal</a>  </h2>
+<h2>  <a href="https://github.com/krazyglue88/Git">Git</a> </h2>
+<h2>  <a Href="https://github.com/krazyglue88/Git/tree/Postman">Postman</a> </h2>
   
 # Мои контакты
 <p align="center">
